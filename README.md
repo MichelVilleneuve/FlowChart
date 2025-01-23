@@ -11,7 +11,7 @@ The rectangle get drawn in the upper left corner at selection.
 
 Select rectangle to drag it to a new location.  
 
-<img src = "FlowChart text" />  
+<img src = "FlowChart text.jpg" />  
 
 Long press the rectangle to add text inside.  
 
