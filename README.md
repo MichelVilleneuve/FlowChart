@@ -8,6 +8,8 @@
 
 <img src = "FlowChart text" />  
 
+<img src = "FlowChart other rectangle.jpg" />  
+
 <img src = "FlowChart line.jpg" />  
 
 <img src = "FlowChart title.jpg" />  
